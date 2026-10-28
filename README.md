@@ -48,11 +48,9 @@ Is it healthy to seek out sadness on purpose? Can sad music help us process our 
 A survey with about 2,400 people from Finland and the UK, who described a memorable experience with sad music. Details: [`data/raw/README.md`](data/raw/README.md)
 
 **Background reading:**
-- Eerola, T. & Peltola, H.-R. (2016). Memorable experiences with sad music – reasons, reactions and mechanisms of three types of experiences. *PLOS ONE*, 11(6), e0157444. https://doi.org/10.1371/journal.pone.0157444
-- Sachs, M. E., Damasio, A. & Habibi, A. (2015). The pleasures of sad music: a systematic review. *Frontiers in Human Neuroscience*, 9, 404. https://doi.org/10.3389/fnhum.2015.00404
-- Taruffi, L. & Koelsch, S. (2014). The paradox of music-evoked sadness: an online survey. *PLOS ONE*, 9(10), e110490. https://doi.org/10.1371/journal.pone.0110490
-- Garrido, S. & Schubert, E. (2015). Moody melodies: Do they cheer us up? A study of the effect of sad music on mood. *Psychology of Music*, 43(2), 244–261. https://doi.org/10.1177/0305735613501938
-- Taruffi, L., Pehrs, C., Skouras, S. & Koelsch, S. (2017). Effects of sad and happy music on mind-wandering and the default mode network. *Scientific Reports*, 7, 14396. https://doi.org/10.1038/s41598-017-14849-0
+- Eerola, T. & Peltola, H.-R. (2016). Memorable experiences with sad music – reasons, reactions and mechanisms of three types of experiences. *PLOS ONE*, 11(6), e0157444. https://doi.org/10.1371/journal.pone.0157444 – the study behind the dataset
+- Garrido, S. & Schubert, E. (2015). Moody melodies: Do they cheer us up? A study of the effect of sad music on mood. *Psychology of Music*, 43(2), 244–261. https://doi.org/10.1177/0305735613501938 – mood got worse after sad music; rumination was measured
+- Taruffi, L., Pehrs, C., Skouras, S. & Koelsch, S. (2017). Effects of sad and happy music on mind-wandering and the default mode network. *Scientific Reports*, 7, 14396. https://doi.org/10.1038/s41598-017-14849-0 – sad music turns thoughts inwards
 
 ## Why not streaming data?
 
