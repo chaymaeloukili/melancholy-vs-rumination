@@ -10,6 +10,8 @@ Each notebook reads data from `../data/raw/` or `../data/processed/`. Raw data i
 | `03_analysis.ipynb` | Analysis: compare people who felt better and worse | next |
 | `04_visualize.ipynb` | Visualize: final charts | open |
 
+**How these notebooks were made:** The approach, the steps and all decisions about the data are my own. Claude (Anthropic) supports me like a tutor: it writes most of the code based on my instructions, explains it, and helps me structure and document each notebook. I run every step and check every result myself. Details: [AI_USAGE.md](../AI_USAGE.md)
+
 ## 01_explore.ipynb
 How I explored the raw data, step by step:
 1. Load Sample 1 and take a first look
