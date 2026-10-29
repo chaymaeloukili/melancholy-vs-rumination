@@ -62,15 +62,16 @@ For my question, I need people's own descriptions of their feelings. That is why
 | Folder / file | Content |
 |---|---|
 | `data/raw/` | original data and documentation (never modified) |
-| `data/processed/` | cleaned data (coming soon) |
+| `data/processed/` | cleaned data: `sad_music_clean.csv` (2,436 people, all three samples in one table) |
 | `notebooks/` | the analysis, step by step (see [`notebooks/README.md`](notebooks/README.md)) |
 | `AI_USAGE.md` | how I use AI in this project |
 
 ## Status
 
 - Done: data exploration ([`notebooks/01_explore.ipynb`](notebooks/01_explore.ipynb))
-- Next: data cleaning
-- Later: analysis, charts, and maybe neuroscience data (EEG or fMRI)
+- Done: data cleaning ([`notebooks/02_clean.ipynb`](notebooks/02_clean.ipynb)) → clean dataset in [`data/processed/`](data/processed/README.md)
+- Next: analysis – comparing people who felt better and worse after sad music
+- Later: charts, and maybe neuroscience data (EEG or fMRI)
 
 ## Limitations
 
