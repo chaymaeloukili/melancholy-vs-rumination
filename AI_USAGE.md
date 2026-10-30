@@ -1,9 +1,18 @@
 # AI Usage
 
-I use Claude (Anthropic) as a tool in this project.
+This is a learning project. I use Claude (Anthropic) as a tutor, and I want to be open about how.
 
-**What Claude does:** It writes most of the code based on my instructions, explains concepts and code, and helped me restructure the notebooks into a clean, step-by-step format.
+## So far (exploration and cleaning)
+Most of the code was written by Claude based on my instructions. I was not a passive user:
+- I decided the approach and the order of the steps (e.g. first going through all 131 columns before cleaning)
+- I typed and ran every cell myself, read every output and checked it against the data and the documentation
+- I questioned the data: e.g. that streaming data is not suitable, that the samples differ, that missing answers must not be ignored, that `PHYSCHANGE` is not a checkbox
+- I found and fixed my own errors (e.g. a `KeyError` and a wrong variable name)
+- I made all decisions about which columns to keep, remove or change, and why
 
-**What I do myself:** I choose the topic, the research question and the data. I look at the data critically, question the documentation and decide what to keep, remove or change – for example that `listen` and `expert` are removed, that the samples stay separate and that missing answers are not filled in. I run every step, check every result and ask about every part I do not understand.
+## From now on (analysis and visualisation)
+I write more of the code myself. I first try on my own and look up what I need; Claude helps when I get stuck, explains errors and checks my code.
+The notebooks show which parts I wrote myself.
 
-**Why this project matters to me:** It is a learning project. I use it as a template for the structure of future data projects: setup → load → check → decide → clean → save → check again → analyse → visualise → document.
+## What stays my own
+The topic, the research question, the choice of data, all decisions about the data and the interpretation of the results.

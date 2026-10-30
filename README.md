@@ -90,7 +90,7 @@ Python (pandas, matplotlib), Jupyter, Git and GitHub
 
 ## Use of AI
 
-I use Claude (Anthropic) as a tool. Most of the code was written by Claude based on my instructions; I ran it, checked the results and asked about every part I did not understand. Claude also explains new concepts and helps me document my work.
+This is a learning project, and I use Claude (Anthropic) as a tutor. In exploration and cleaning, most of the code was written by Claude based on my instructions; I ran and checked every step and made all decisions about the data. From the analysis on, I write more of the code myself. Details: [AI_USAGE.md](AI_USAGE.md)
 
 **My own:** the topic and research question, the approach (e.g. first going through all 131 columns, then deciding what is relevant, and exploring each sample separately), the choice of data and columns, and the interpretation.
 
