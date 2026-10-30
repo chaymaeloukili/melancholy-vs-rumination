@@ -79,6 +79,11 @@ For my question, I need people's own descriptions of their feelings. That is why
 - Rumination was not measured directly. Feeling worse after sad music is only a hint, not proof of a downward spiral.
 - The samples differ in country and in how people were recruited.
 
+## How to run
+
+   1. Install Python 3 and the packages: `pip install -r requirements.txt`
+   2. Open the notebooks in `notebooks/` and run them in order (`01` → `02` → ...)
+
 ## Tools
 
 Python (pandas, matplotlib), Jupyter, Git and GitHub
