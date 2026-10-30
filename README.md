@@ -1,6 +1,6 @@
 # The Thin Line Between Melancholy and Rumination
 
-What happens when we listen to sad music? A learning project on how sad music is linked to our emotions – when it comforts us, and when it may pull us down.
+What happens when we listen to sad music? A learning project on **who feels better and who feels worse after sad music** – when it comforts us, and when it may pull us down.
 
 This project is a work in progress. I am building it slowly, step by step, alongside my studies, out of curiosity and to learn.
 
