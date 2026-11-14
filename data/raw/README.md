@@ -49,6 +49,10 @@ One line = one item, line 1 = item 1. The files have no header row.
 **Note on `REASON_label.csv`:** The documentation says this file belongs to `REASON1–REASON13`, but it has 24 lines and fits `R1–R24`.
 Labels for `REASON1–REASON13` are not included in the data release, so these columns are not used.
 
+### Known issue: ASM answers in `S3_data.csv` (UK)
+The ASM1–ASM25 answers in S3 do not form a plausible pattern. For example, "relaxes me" correlates positively with "irritates me" and "unpleasant feelings" (in S1 and S2 negatively), and the correlation pattern of S3 does not match S1/S2 (r = 0.04 vs. 0.96 between S1 and S2). Possible cause: the items were shown in random order and the export may contain the display order instead of the item number. Not confirmed by the authors.
+→ ASM results for S3 are treated as unreliable. See `notebooks/03_analysis.ipynb`, step 7b.
+
 ### 3. Documentation by the author
 | File | Content |
 |---|---|
