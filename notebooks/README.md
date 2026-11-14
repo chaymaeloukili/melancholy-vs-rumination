@@ -7,7 +7,7 @@ Each notebook reads data from `../data/raw/` or `../data/processed/`. Raw data i
 |---|---|---|
 | `01_explore.ipynb` | Explore: understand the raw data and select columns | done |
 | `02_clean.ipynb` | Clean: combine samples, remove columns, fix values, save clean data | done |
-| `03_analysis.ipynb` | Analysis: compare people who felt better and worse | next |
+| `03_analysis.ipynb` | Analysis: compare people who felt better and worse | in progress (steps 1–7 of 10) |
 | `04_visualize.ipynb` | Visualize: final charts | open |
 
 **How these notebooks were made:** The approach, the steps and all decisions about the data are my own. In `01_explore` and `02_clean`, most of the code was written by Claude (Anthropic) based on my instructions; I ran and checked every step. From `03_analysis` on, I write more of the code myself. Details: [AI_USAGE.md](../AI_USAGE.md)

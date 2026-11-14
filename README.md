@@ -69,9 +69,10 @@ For my question, I need people's own descriptions of their feelings. That is why
 ## Status
 
 - Done: data exploration ([`notebooks/01_explore.ipynb`](notebooks/01_explore.ipynb))
-- Done: data cleaning ([`notebooks/02_clean.ipynb`](notebooks/02_clean.ipynb)) → clean dataset in [`data/processed/`](data/processed/README.md)
-- Next: analysis – comparing people who felt better and worse after sad music
-- Later: charts, and maybe neuroscience data (EEG or fMRI)
+- Done: data cleaning ([`notebooks/02_clean.ipynb`](notebooks/02_clean.ipynb))
+- In progress: analysis ([`notebooks/03_analysis.ipynb`](notebooks/03_analysis.ipynb)) – steps 1–7 of 10 done
+- Next: situation and reactions during the experience, simple statistics, summary
+- Later: charts, scripts, and maybe neuroscience data (EEG or fMRI)
 
 ## Limitations
 
