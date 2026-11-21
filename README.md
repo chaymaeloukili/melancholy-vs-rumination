@@ -71,6 +71,17 @@ For my question, I need people's own descriptions of their feelings. That is why
 - Next: visualization
 - Later: results and limitations in this README, turning the notebooks into scripts
 
+## Key findings so far
+- In Finland most people felt better after their experience with sad music (74–79 %). In the UK most people felt the same (48 %), and only 38 % felt better. Age does not explain this.
+- People who listen to sad music more often felt better more often, in all three samples.
+- Choosing the music yourself and listening longer go together with feeling better.
+- Comfort, relief and peacefulness are the feelings most linked to feeling better.
+- Beauty runs through everything. It is the strongest reason, mechanism and part of pleasure linked to feeling better.
+- "Better" and "Worse" were both intense experiences. What separates them is how pleasant it felt, not how strong.
+- These are connections, not causes. People remembered their experience and answered about themselves. The UK attitude answers (ASM) were not reliable and are left out.
+
+The full analysis and my conclusion are in [`notebooks/03_analysis.ipynb`](notebooks/03_analysis.ipynb).
+
 ## Limitations
 
 - The data are self-reports: people remember one past experience. This shows how they experienced it, not what happened in the brain.
