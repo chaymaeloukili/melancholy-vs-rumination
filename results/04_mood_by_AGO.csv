@@ -1,0 +1,22 @@
+sample,AGO,Worse,Same,Better,n
+S1_Finland_convenience,less than day,4.3,21.7,73.9,92
+S1_Finland_convenience,2-5 days,4.6,15.9,79.5,151
+S1_Finland_convenience,6-10 days,4.8,11.3,83.9,62
+S1_Finland_convenience,11-30 days,9.6,19.2,71.2,104
+S1_Finland_convenience,1-6 mo,5.9,14.8,79.2,236
+S1_Finland_convenience,7-12 mo,10.4,10.4,79.2,106
+S1_Finland_convenience,over year,7.9,10.6,81.5,454
+S2_Finland_quota,less than day,4.5,18.2,77.3,22
+S2_Finland_quota,2-5 days,12.1,21.2,66.7,33
+S2_Finland_quota,6-10 days,12.5,16.7,70.8,24
+S2_Finland_quota,11-30 days,0.0,13.6,86.4,22
+S2_Finland_quota,1-6 mo,12.1,12.1,75.9,58
+S2_Finland_quota,7-12 mo,0.0,18.8,81.2,16
+S2_Finland_quota,over year,10.3,18.5,71.2,146
+S3_UK_representative,less than day,8.7,43.5,47.8,23
+S3_UK_representative,2-5 days,15.4,46.2,38.5,52
+S3_UK_representative,6-10 days,13.5,64.9,21.6,37
+S3_UK_representative,11-30 days,16.2,45.9,37.8,37
+S3_UK_representative,1-6 mo,14.0,37.2,48.8,43
+S3_UK_representative,7-12 mo,0.0,58.3,41.7,24
+S3_UK_representative,over year,17.4,45.8,36.8,144

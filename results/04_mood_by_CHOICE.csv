@@ -1,0 +1,7 @@
+sample,CHOICE,Worse,Same,Better,n
+S1_Finland_convenience,Not self-chosen,17.7,15.3,67.0,294
+S1_Finland_convenience,Self-chosen,3.7,13.2,83.1,917
+S2_Finland_quota,Not self-chosen,22.1,24.0,53.8,104
+S2_Finland_quota,Self-chosen,3.2,13.8,82.9,217
+S3_UK_representative,Not self-chosen,21.7,54.8,23.5,166
+S3_UK_representative,Self-chosen,8.2,41.8,50.0,196

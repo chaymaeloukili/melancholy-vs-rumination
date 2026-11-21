@@ -1,0 +1,13 @@
+sample,IMPORTANCE,Worse,Same,Better,n
+S1_Finland_convenience,Not at all,8.1,15.2,76.8,198
+S1_Finland_convenience,Quite Important,7.3,16.5,76.2,303
+S1_Finland_convenience,Important,6.5,15.0,78.5,293
+S1_Finland_convenience,Extremely Important,7.0,10.1,83.0,417
+S2_Finland_quota,Not at all,19.7,23.0,57.4,61
+S2_Finland_quota,Quite Important,5.3,20.0,74.7,75
+S2_Finland_quota,Important,5.6,15.6,78.9,90
+S2_Finland_quota,Extremely Important,9.5,12.6,77.9,95
+S3_UK_representative,Not at all,16.0,56.6,27.4,106
+S3_UK_representative,Quite Important,9.4,52.9,37.7,138
+S3_UK_representative,Important,19.4,40.3,40.3,72
+S3_UK_representative,Extremely Important,17.4,23.9,58.7,46

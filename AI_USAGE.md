@@ -56,3 +56,11 @@ The topic, the research question, the choice of data, all decisions about the da
 **Interpretation**
 - After interpreting the results myself, I asked Claude to confirm them and explain why something is the way it is. Sometimes Claude pointed out small details, for example when a group was too small.
 - Claude translated my conclusion into English in my style and checked that every sentence matches the data.
+
+
+
+## Scripts (src/)
+
+**Code**
+- I decided to turn the notebooks into scripts, because they are easier to run for other people.
+- Claude wrote the scripts based on my notebooks `02_clean` and `03_analysis`. I ran them and checked that the results are the same as in my notebooks.

@@ -1,0 +1,37 @@
+,label,S1_Finland_convenience,S2_Finland_quota,S3_UK_representative
+FEELING1,relief,0.26,0.34,0.23
+FEELING2,joy,0.19,,
+FEELING3,contempt,,,
+FEELING4,sadness,,,0.21
+FEELING5,fear,0.11,,
+FEELING6,humiliation,0.13,,
+FEELING7,self-pity,,,
+FEELING8,powerlessness,0.16,,
+FEELING9,satisfaction,0.16,,
+FEELING10,anger,,,
+FEELING11,disgust,,,
+FEELING12,guilt,,,
+FEELING13,elation,0.12,,
+FEELING14,frustration,0.16,,
+FEELING15,dismay,,,
+FEELING16,feeling moved,0.15,,0.28
+FEELING17,rapture,0.16,,
+FEELING18,wonder,0.15,,
+FEELING19,transcendence,0.19,0.25,
+FEELING20,power,0.17,,
+FEELING21,tenderness,0.16,,
+FEELING22,nostalgia,,,
+FEELING23,peacefulness,0.24,0.31,0.34
+FEELING24,tension,0.11,,
+FEELING25,pleasant melancholia,0.22,0.23,
+FEELING26,anxiety,0.25,0.37,
+FEELING27,grief-stricken,0.18,0.26,
+FEELING28,sad but elated,0.21,0.28,0.2
+FEELING29,depression,0.16,0.21,
+FEELING30,being downhearted,0.19,,0.24
+FEELING31,uplifted,,,0.25
+FEELING32,comfort,0.3,0.36,0.27
+FEELING33,irritation,0.13,,
+FEELING34,indescribable,,,
+FEELING35,don't know,,,0.28
+FEELING36,other,,,

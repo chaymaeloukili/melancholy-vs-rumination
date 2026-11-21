@@ -1,0 +1,6 @@
+code,label,S1_Finland_convenience,S2_Finland_quota,S3_UK_representative
+PHYS1,No physical reactions,1.8,0.7,14.4
+PHYS2,Chills,16.5,24.0,-0.9
+PHYS3,I cried a little,1.8,20.8,-5.7
+PHYS4,I cried a lot,-8.6,5.6,-11.6
+PHYS5,Other,-3.0,-19.3,0.3

@@ -1,0 +1,39 @@
+sample,,S1_Finland_convenience,S1_Finland_convenience,S1_Finland_convenience,S2_Finland_quota,S2_Finland_quota,S2_Finland_quota,S3_UK_representative,S3_UK_representative,S3_UK_representative
+MOODCHANGE,,Worse,Same,Better,Worse,Same,Better,Worse,Same,Better
+code,label,,,,,,,,,
+FEELING1,relief,8.1,15.1,43.0,3.3,5.5,39.8,7.7,9.8,27.0
+FEELING2,joy,3.5,19.3,32.8,6.7,12.7,28.4,7.7,9.8,22.6
+FEELING3,contempt,4.7,5.4,2.7,6.7,3.6,3.4,5.8,4.6,7.3
+FEELING4,sadness,89.5,68.7,73.1,70.0,58.2,72.0,76.9,47.4,62.0
+FEELING5,fear,27.9,13.9,12.6,13.3,10.9,11.4,9.6,2.3,4.4
+FEELING6,humiliation,3.5,17.5,22.9,3.3,14.5,22.0,3.8,1.2,4.4
+FEELING7,self-pity,34.9,26.5,26.4,16.7,20.0,19.5,15.4,9.8,13.9
+FEELING8,powerlessness,65.1,37.3,34.5,60.0,41.8,30.5,25.0,11.6,9.5
+FEELING9,satisfaction,2.3,15.1,25.7,6.7,9.1,23.7,7.7,11.0,23.4
+FEELING10,anger,12.8,12.0,7.8,30.0,7.3,9.3,11.5,6.9,8.0
+FEELING11,disgust,10.5,6.0,4.2,16.7,3.6,4.7,5.8,2.3,2.9
+FEELING12,guilt,14.0,13.9,12.4,6.7,10.9,11.9,13.5,4.0,3.6
+FEELING13,elation,1.2,3.0,10.4,6.7,1.8,8.9,3.8,2.3,9.5
+FEELING14,frustration,31.4,19.9,11.6,33.3,10.9,10.2,9.6,6.4,10.2
+FEELING15,dismay,11.6,2.4,4.2,10.0,0.0,3.8,11.5,5.2,9.5
+FEELING16,feeling moved,60.5,63.3,77.9,43.3,61.8,74.2,30.8,35.3,62.8
+FEELING17,rapture,1.2,3.6,16.4,3.3,0.0,11.9,1.9,1.2,5.8
+FEELING18,wonder,17.4,31.3,43.2,13.3,23.6,34.7,5.8,5.2,9.5
+FEELING19,transcendence,7.0,12.0,30.9,3.3,3.6,26.3,13.5,7.5,20.4
+FEELING20,power,1.2,6.6,19.7,3.3,1.8,16.9,5.8,9.8,15.3
+FEELING21,tenderness,5.8,18.1,29.9,13.3,12.7,22.0,25.0,17.3,34.3
+FEELING22,nostalgia,25.6,37.3,38.9,10.0,29.1,36.4,40.4,27.7,44.5
+FEELING23,peacefulness,9.3,35.5,52.9,6.7,27.3,52.5,11.5,18.5,48.2
+FEELING24,tension,11.6,7.2,3.6,13.3,0.0,5.1,11.5,5.8,7.3
+FEELING25,pleasant melancholia,19.8,40.4,57.6,13.3,34.5,49.6,15.4,9.8,25.5
+FEELING26,anxiety,52.3,19.3,15.1,63.3,10.9,14.8,11.5,5.2,5.1
+FEELING27,grief-stricken,62.8,37.3,29.8,63.3,30.9,23.3,25.0,9.8,8.8
+FEELING28,sad but elated,15.1,28.3,48.7,0.0,29.1,45.8,9.6,8.1,22.6
+FEELING29,depression,25.6,15.1,7.8,30.0,9.1,8.1,15.4,6.4,3.6
+FEELING30,being downhearted,62.8,38.0,29.3,56.7,34.5,27.5,34.6,11.6,10.2
+FEELING31,uplifted,0.0,6.6,9.3,3.3,5.5,6.8,3.8,4.6,20.4
+FEELING32,comfort,11.6,29.5,59.2,10.0,18.2,55.1,5.8,11.0,30.7
+FEELING33,irritation,10.5,2.4,2.1,20.0,1.8,5.1,5.8,0.6,0.7
+FEELING34,indescribable,14.0,15.1,19.8,16.7,10.9,20.8,7.7,4.6,7.3
+FEELING35,don't know,3.5,1.2,1.5,3.3,3.6,0.8,3.8,17.3,0.7
+FEELING36,other,9.3,4.2,6.2,13.3,12.7,5.9,3.8,3.5,0.7
