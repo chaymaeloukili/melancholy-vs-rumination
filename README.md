@@ -87,6 +87,12 @@ These are connections, not causes. People remembered their experience and answer
 
 The full analysis and my conclusion are in [`notebooks/03_analysis.ipynb`](notebooks/03_analysis.ipynb).
 
+### Charts
+
+![Mood after sad music per sample](figures/01_mood_by_sample.png)
+
+More charts will follow step by step.
+
 ### Limitations
 
 The data is based on what people report about themselves, and they remember one past experience. This shows how they experienced it, not what happened in the brain. Rumination was not measured directly, so feeling worse after sad music is only a hint and not proof of a downward spiral. The samples also differ in country and in how people were recruited.

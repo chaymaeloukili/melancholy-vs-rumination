@@ -64,3 +64,14 @@ The topic, the research question, the choice of data, all decisions about the da
 **Code**
 - I decided to turn the notebooks into scripts, because they are easier to run for other people.
 - Claude wrote the scripts based on my notebooks `02_clean` and `03_analysis`. I ran them and checked that the results are the same as in my notebooks.
+
+
+
+## Visualization (src/visualize.py)
+
+**My own ideas and decisions**
+- I looked through chart websites for inspiration, but nothing fit at first. Then I found my own examples and chose a soft watercolour look with round shapes in purple tones.
+- I asked for changes until the design felt right, and I checked whether the title really fits the data.
+
+**Code**
+- Claude wrote `visualize.py` based on my design ideas and explained how it works. I ran it and checked the chart against my results.
