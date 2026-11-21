@@ -3,6 +3,8 @@
 Run from the project folder (after analysis.py):  python src/visualize.py
 """
 
+import textwrap
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -44,12 +46,14 @@ def new_card(width=9, height=4.4):
 
 def add_titles(fig, kind, title, note):
     """Small coloured chart type, the title (the finding) and a note with the source at the bottom."""
-    fig.text(0.06, 0.89, kind, color=PURPLE, fontsize=9, fontweight="bold")
-    fig.text(0.06, 0.80, title, color=INK, fontsize=10.8, fontweight="bold")
+    fig.text(0.06, 0.91, kind, color=PURPLE, fontsize=9, fontweight="bold", va="top")
+    # long titles go onto a new line instead of being cut off ("\n" in the title = my own line break)
+    title = "\n".join(textwrap.fill(line, width=70) for line in title.split("\n"))
+    fig.text(0.06, 0.85, title, color=INK, fontsize=11, fontweight="bold", va="top", linespacing=1.4)
     fig.text(0.06, 0.08, f"{note}  ·  {SOURCE}", color=MUTED, fontsize=7.5)
 
 
-def add_legend(fig, x=0.62, y=0.727):
+def add_legend(fig, x=0.62, y=0.66):
     """Round colour dots with Worse, Same, Better."""
     for i, (mood, color) in enumerate(COLORS.items()):
         dot_x = x + i * 0.11
@@ -100,7 +104,7 @@ def chart_mood_by_sample():
     n = pd.read_csv(RESULTS_DIR / "02_moodchange_by_sample_n.csv", index_col=0).loc["All"]
 
     fig = new_card()
-    box = [0.24, 0.2, 0.7, 0.5]                     # where the bars are: left, bottom, width, height
+    box = [0.24, 0.16, 0.7, 0.46]                    # where the bars are: left, bottom, width, height
     ax = fig.add_axes(box)
     ax.set_zorder(5)
     ax.patch.set_alpha(0)
@@ -128,8 +132,7 @@ def chart_mood_by_sample():
         spine.set_visible(False)
     ax.tick_params(left=False, labelsize=9.5, labelcolor=SOFT_INK)
 
-    add_titles(fig, "Stacked Bar Chart",
-               'In Finland most people felt better after sad music, in the UK "the same" was the most common answer',
+    add_titles(fig, "Stacked Bar Chart", "After listening to sad music, most people in Finland felt better.\nIn the UK, many simply felt the same.",
                "Mood after a memorable experience with sad music")
     add_legend(fig)
     save(fig, "01_mood_by_sample")

@@ -91,7 +91,9 @@ The full analysis and my conclusion are in [`notebooks/03_analysis.ipynb`](noteb
 
 ![Mood after sad music per sample](figures/01_mood_by_sample.png)
 
-More charts will follow step by step.
+This chart shows how people felt after a memorable experience with sad music. In both Finnish samples, about three out of four people felt better afterwards. In the UK it was only 38 %, and almost half felt the same as before. Only a few people felt worse, and this was true in all three samples.
+
+More charts will follow step by step, and I will sum them up here once they are done.
 
 ### Limitations
 
