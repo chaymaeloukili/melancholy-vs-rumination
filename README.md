@@ -73,7 +73,56 @@ It would have been easy to use data from streaming platforms such as Spotify. Bu
 
 ### Status
 
-I have finished the data exploration, the cleaning and the analysis (steps 1 to 10, including a data quality check and statistical tests). Next comes the visualization. Later I will add the results and limitations to this README and turn the notebooks into scripts.
+The project is complete. I explored and cleaned the data, analysed it step by step (including a data quality check and statistical tests) and visualised the results. All steps can be repeated with the scripts in `src/`.
+
+### Results
+
+I sorted the results by the four questions from the beginning.
+
+#### 1. Observe. How do people feel after listening to sad music?
+
+![Mood after sad music per sample](figures/01_mood_by_sample.png)
+
+In both Finnish samples, about three out of four people felt better after their memorable experience with sad music (79 % and 74 %). In the UK only 38 % felt better, and "the same" was the most common answer (48 %). Only a few people felt worse in all three samples. Age does not explain the difference between the countries.
+
+#### 2. Compare. Do people who often listen to sad music feel different?
+
+![Mood by how often people listen to sad music](figures/02_mood_by_listening.svg)
+
+The more often people listen to sad music, the more often they felt better afterwards, and this is true in all three samples. From "Sometimes" on, the two Finnish samples look almost the same. So the higher numbers among the fans seem to come from listening more often, not from being a fan as such.
+
+#### 3. Understand. What goes along with feeling better or worse?
+
+**The situation**
+
+![Mood by choice](figures/03a_mood_by_choice.svg)
+![Mood by duration](figures/03b_mood_by_duration.svg)
+
+People who did not choose the music themselves felt worse about four to seven times as often (18 to 22 % compared to 3 to 8 %). People who listened for less than five minutes also felt worse much more often. Both effects are significant in all three samples. The direction is unclear though, because people who feel bad may simply stop listening sooner.
+
+**The feelings**
+
+![Feelings in the Worse and Better groups](figures/04_feelings.svg)
+
+People who felt better often felt comfort, relief and peacefulness, and "sad but elated" stands out in all three samples. People who felt worse more often felt powerlessness, grief and being downhearted, but this pattern is clearer in Finland than in the UK.
+
+**Strong, but differently pleasant**
+
+![Intensity and pleasure](figures/05_intensity_pleasure.svg)
+
+Both scales go from 1 to 7. People who felt better and people who felt worse rated their experience as almost equally intense. What separates them is how pleasant it felt. The "Worse" group is even below the middle of the scale.
+
+**Beauty as the common thread**
+
+![Beauty as a reason and as a mechanism](figures/06_beauty.svg)
+
+Beauty shows up again and again. "Because it is beautiful" is the only reason that is significant in all three samples, and beauty as part of the experience is too. In every sample, the people who felt better named beauty most often. Memories, on the other hand, made no difference.
+
+#### 4. Reflect. Where is the line between melancholy and rumination?
+
+This question cannot be answered with a chart, because rumination was not measured in this survey. What the data does show is that the people who felt better chose the music, took their time and experienced it as beautiful and comforting. The people who felt worse had an equally strong experience, but it felt unpleasant. Maybe this is where the line lies, not in how deeply the music moves us, but in whether we can still find something beautiful in it. This is my interpretation, not a proven result.
+
+The full analysis and my conclusion are in [`notebooks/03_analysis.ipynb`](notebooks/03_analysis.ipynb).
 
 ### Key findings so far
 
@@ -97,7 +146,9 @@ More charts will follow step by step, and I will sum them up here once they are 
 
 ### Limitations
 
-The data is based on what people report about themselves, and they remember one past experience. This shows how they experienced it, not what happened in the brain. Rumination was not measured directly, so feeling worse after sad music is only a hint and not proof of a downward spiral. The samples also differ in country and in how people were recruited.
+The data is based on what people report about themselves, and they remember one past experience. This shows how they experienced it, not what happened in the brain. Rumination was not measured directly, so feeling worse after sad music is only a hint and not proof of a downward spiral. I only found connections, not causes.
+
+The samples differ in country and in how people were recruited. Sample 1 is mostly fans of sad music, so the UK can best be compared with sample 2. Some groups were small, for example only 22 people in sample 2 who did not know the music. The attitude answers (ASM) from the UK were not reliable, so I left them out of my conclusions.
 
 ### How to run
 
@@ -109,7 +160,11 @@ The notebooks in `notebooks/` show the same steps with my notes and thoughts. Th
 
 ### Tools
 
-Python (pandas, matplotlib, scipy), Jupyter, Git and GitHub
+Python (pandas, matplotlib, scipy), Jupyter, Git and GitHub. The charts 2 to 6 and the final version of chart 1 were made with [RAWGraphs](https://www.rawgraphs.io) and refined in Inkscape.
+
+### Next ideas
+
+I would like to try a decision tree one day, to see which factors together best separate the people who felt better from those who felt worse. Later I also want to connect this project with neuroscience and compare what people report with what actually happens in the brain.
 
 ### Use of AI
 

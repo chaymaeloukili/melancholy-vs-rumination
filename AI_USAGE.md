@@ -67,11 +67,15 @@ The topic, the research question, the choice of data, all decisions about the da
 
 
 
-## Visualization (src/visualize.py)
+## Visualization with RAWGraphs and Inkscape (charts 1 to 6)
 
 **My own ideas and decisions**
-- I looked through chart websites for inspiration, but nothing fit at first. Then I found my own examples and chose a soft watercolour look with round shapes in purple tones.
-- I asked for changes until the design felt right, and I checked whether the title really fits the data.
+- I had already planned in `01_explore` which topics I wanted to show in charts.
+- I wanted to try real visualization tools myself instead of letting AI make every chart.
+- I looked for chart types myself, chose the colours and the layout, and refined the charts in Inkscape.
+- I found many of the settings in RAWGraphs myself.
+- I am not fully satisfied yet, and I want to work more on visualization in the future.
 
-**Code**
-- Claude wrote `visualize.py` based on my design ideas and explained how it works. I ran it and checked the chart against my results.
+**Where I asked Claude**
+- Claude wrote the code that prepares the data for each chart.
+- When I was unsure between chart types, Claude explained which ones fit the data better and why, and I made the final choice.

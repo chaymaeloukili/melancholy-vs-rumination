@@ -135,7 +135,7 @@ def chart_mood_by_sample():
     add_titles(fig, "Stacked Bar Chart", "After listening to sad music, most people in Finland felt better.\nIn the UK, many simply felt the same.",
                "Mood after a memorable experience with sad music")
     add_legend(fig)
-    save(fig, "01_mood_by_sample")
+    save(fig, "01_mood_by_sample_python")
 
 
 def main():
