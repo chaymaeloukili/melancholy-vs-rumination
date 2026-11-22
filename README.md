@@ -2,7 +2,7 @@
 
 What happens when we listen to sad music? This is a learning project on **who feels better and who feels worse after sad music**, when it comforts us and when it may pull us down.
 
-This project is a work in progress. I am building it slowly, step by step, alongside my studies, out of curiosity and to learn.
+*I built this project slowly, step by step alongside my studies, out of curiosity and to learn.*
 
 
 
@@ -144,7 +144,6 @@ Both scales go from 1 to 7. People who felt better and people who felt worse rat
 
 Beauty shows up again and again. "Because it is beautiful" is the only reason that is significant in all three samples, and beauty as part of the experience is too. In every sample, the people who felt better named beauty most often. Memories, on the other hand, made no difference.
 
-Beauty shows up again and again. "Because it is beautiful" is the only reason that is significant in all three samples, and beauty as part of the experience is too. In every sample, the people who felt better named beauty most often. Memories, on the other hand, made no difference.
 
 
 #### 4. Reflect. Where is the line between melancholy and rumination?

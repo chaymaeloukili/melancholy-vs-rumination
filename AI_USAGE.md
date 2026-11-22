@@ -4,7 +4,7 @@ This is a learning project. I use Claude (Anthropic) as a tutor, and I want to b
 
 
 
-## So far (exploration and cleaning)
+## Exploration and cleaning
 Most of the code was written by Claude based on my instructions. I was not a passive user:
 - I decided the approach and the order of the steps (e.g. first going through all 131 columns before cleaning)
 - I typed and ran every cell myself, read every output and checked it against the data and the documentation
@@ -14,7 +14,7 @@ Most of the code was written by Claude based on my instructions. I was not a pas
 
 
 
-## Analysis (03_analysis)
+## Analysis, steps 1 to 7 (03_analysis)
 
 **My own ideas and decisions in the analysis**
 - I noticed that counts are misleading when groups have different sizes and asked to compare percentages instead.
@@ -30,9 +30,6 @@ Most of the code was written by Claude based on my instructions. I was not a pas
 **Interpretation**
 - The analysis of the results is my own: I read every table, wrote down what I noticed and developed my own ideas (e.g. language of songs, sad music as an outlet, a possible translation issue, people listening to sad music as a tool).
 - Claude helped me to read the tables correctly (differences vs. percentages, small groups) and to put my notes into English.
-
-## What stays my own
-The topic, the research question, the choice of data, all decisions about the data and the interpretation of the results.
 
 
 
@@ -77,5 +74,11 @@ The topic, the research question, the choice of data, all decisions about the da
 - I am not fully satisfied yet, and I want to work more on visualization in the future.
 
 **Where I asked Claude**
+- Claude wrote `src/visualize.py` for a first version of chart 1, based on my design ideas.
 - Claude wrote the code that prepares the data for each chart.
 - When I was unsure between chart types, Claude explained which ones fit the data better and why, and I made the final choice.
+
+
+
+## What stays my own
+The topic, the research question, the choice of data, all decisions about the data and the interpretation of the results.
