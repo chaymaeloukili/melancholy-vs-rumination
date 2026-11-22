@@ -93,28 +93,31 @@ The more often people listen to sad music, the more often they felt better after
 
 #### 3. Understand. What goes along with feeling better or worse?
 
-**The situation**
+##### The situation
 
 ![Mood by choice](figures/03a_mood_by_choice.svg)
+
 ![Mood by duration](figures/03b_mood_by_duration.svg)
 
 People who did not choose the music themselves felt worse about four to seven times as often (18 to 22 % compared to 3 to 8 %). People who listened for less than five minutes also felt worse much more often. Both effects are significant in all three samples. The direction is unclear though, because people who feel bad may simply stop listening sooner.
 
-**The feelings**
+##### The feelings
 
 ![Feelings in the Worse and Better groups](figures/04_feelings.svg)
 
 People who felt better often felt comfort, relief and peacefulness, and "sad but elated" stands out in all three samples. People who felt worse more often felt powerlessness, grief and being downhearted, but this pattern is clearer in Finland than in the UK.
 
-**Strong, but differently pleasant**
+##### Strong, but differently pleasant
 
 ![Intensity and pleasure](figures/05_intensity_pleasure.svg)
 
 Both scales go from 1 to 7. People who felt better and people who felt worse rated their experience as almost equally intense. What separates them is how pleasant it felt. The "Worse" group is even below the middle of the scale.
 
-**Beauty as the common thread**
+##### Beauty as the common thread
 
 ![Beauty as a reason and as a mechanism](figures/06_beauty.svg)
+
+Beauty shows up again and again. "Because it is beautiful" is the only reason that is significant in all three samples, and beauty as part of the experience is too. In every sample, the people who felt better named beauty most often. Memories, on the other hand, made no difference.
 
 Beauty shows up again and again. "Because it is beautiful" is the only reason that is significant in all three samples, and beauty as part of the experience is too. In every sample, the people who felt better named beauty most often. Memories, on the other hand, made no difference.
 
