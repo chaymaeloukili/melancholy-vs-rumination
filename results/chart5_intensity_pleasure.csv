@@ -1,0 +1,10 @@
+sample,MOODCHANGE,INTENSITY,PLEASURE,group
+S1_Finland_convenience,Worse,5.5,3.37,FIN fans · Worse
+S1_Finland_convenience,Same,5.07,4.86,FIN fans · Same
+S1_Finland_convenience,Better,5.68,5.89,FIN fans · Better
+S2_Finland_quota,Worse,5.3,2.23,FIN quota · Worse
+S2_Finland_quota,Same,4.63,4.22,FIN quota · Same
+S2_Finland_quota,Better,5.5,5.66,FIN quota · Better
+S3_UK_representative,Worse,4.58,3.17,UK · Worse
+S3_UK_representative,Same,4.03,4.13,UK · Same
+S3_UK_representative,Better,4.45,5.28,UK · Better

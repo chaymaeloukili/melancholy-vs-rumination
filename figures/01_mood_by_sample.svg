@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1005"
+   height="600"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="01_mood_by_sample.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28">
+    <rect
+       x="779.97871"
+       y="226.51637"
+       width="176.66811"
+       height="108.49328"
+       id="rect32" />
+    <rect
+       x="875.27686"
+       y="252.17357"
+       width="0"
+       height="26.390257"
+       id="rect31" />
+    <rect
+       x="786.57627"
+       y="223.58412"
+       width="172.26973"
+       height="109.22634"
+       id="rect30" />
+    <rect
+       x="772.64808"
+       y="6.5975643"
+       width="202.3253"
+       height="211.85512"
+       id="rect28" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.3641398"
+     inkscape:cx="379.72648"
+     inkscape:cy="256.93847"
+     inkscape:window-width="1088"
+     inkscape:window-height="852"
+     inkscape:window-x="388"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg28" />
+  <rect
+     width="1005"
+     height="600"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="background" />
+  <g
+     transform="translate(20,20)"
+     id="viz">
+    <g
+       id="nodes">
+      <g
+         transform="translate(383.5,281)"
+         id="g1">
+        <path
+           id="p_944.5"
+           d="M0,280A280,280,0,1,1,0,-280A280,280,0,1,1,0,280Z"
+           fill="none"
+           stroke="#ccc" />
+        <text
+           fill="black"
+           text-anchor="middle"
+           font-family="'Arial', sans-serif"
+           font-size="8"
+           dominant-baseline="middle"
+           id="text1"><textPath
+             href="#p_944.5"
+             startOffset="50%"
+             id="textPath1" /></text>
+      </g>
+      <g
+         transform="translate(252.01892558686313,208.05250891642396)"
+         id="FIN fans">
+        <path
+           id="p_584.2703366521117"
+           d="M0,124.199A124.199,124.199,0,1,1,0,-124.199A124.199,124.199,0,1,1,0,124.199Z"
+           fill="none"
+           stroke="#ccc" />
+        <text
+           fill="#000000"
+           text-anchor="middle"
+           font-family="Arial, sans-serif"
+           font-size="8"
+           dominant-baseline="middle"
+           id="text2"
+           style="font-size:20px"><textPath
+             href="#p_584.2703366521117"
+             startOffset="50%"
+             id="textPath2"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">FIN fans</textPath></text>
+      </g>
+      <g
+         transform="translate(510.1027924958562,208.05250891642396)"
+         id="UK">
+        <path
+           id="p_846.6007637644622"
+           d="M0,128.445A128.445,128.445,0,1,1,0,-128.445A128.445,128.445,0,1,1,0,128.445Z"
+           fill="none"
+           stroke="#ccc" />
+        <text
+           fill="#000000"
+           text-anchor="middle"
+           font-family="Arial, sans-serif"
+           font-size="8px"
+           dominant-baseline="middle"
+           id="text3"
+           style="font-size:20px"><textPath
+             href="#p_846.6007637644622"
+             startOffset="50%"
+             id="textPath3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">UK</textPath></text>
+      </g>
+      <g
+         transform="translate(376.8329255905386,430.2214875655818)"
+         id="FIN quota">
+        <path
+           id="p_932.2445581594548"
+           d="M0,125.19A125.19,125.19,0,1,1,0,-125.19A125.19,125.19,0,1,1,0,125.19Z"
+           fill="none"
+           stroke="#ccc" />
+        <text
+           fill="#000000"
+           text-anchor="middle"
+           font-family="Arial, sans-serif"
+           font-size="8px"
+           dominant-baseline="middle"
+           id="text4"
+           style="font-size:20px"><textPath
+             href="#p_932.2445581594548"
+             startOffset="50%"
+             id="textPath4"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">FIN quota</textPath></text>
+      </g>
+      <g
+         transform="translate(215.21373168242354,208.05250891642396)"
+         id="Better">
+        <path
+           id="p_505.2204464352462"
+           d="M0,81.954A81.954,81.954,0,1,1,0,-81.954A81.954,81.954,0,1,1,0,81.954Z"
+           fill="#2b2f8f"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(336.692882627255,208.05250891642396)"
+         id="Same">
+        <path
+           id="p_578.8308342441254"
+           d="M0,34.085A34.085,34.085,0,1,1,0,-34.085A34.085,34.085,0,1,1,0,34.085Z"
+           fill="#6c7fd8"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(310.62855431408803,266.5734631143288)"
+         id="Worse">
+        <path
+           id="p_601.7399421483786"
+           d="M0,24.538A24.538,24.538,0,1,1,0,-24.538A24.538,24.538,0,1,1,0,24.538Z"
+           fill="#b8c4f2"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(450.7650372207657,208.05250891642396)"
+         id="g4">
+        <path
+           id="p_722.4857508062948"
+           d="M0,63.668A63.668,63.668,0,1,1,0,-63.668A63.668,63.668,0,1,1,0,63.668Z"
+           fill="#6c7fd8"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(576.4907483689545,208.05250891642396)"
+         id="g5">
+        <path
+           id="p_841.1612613564758"
+           d="M0,56.618A56.618,56.618,0,1,1,0,-56.618A56.618,56.618,0,1,1,0,56.618Z"
+           fill="#2b2f8f"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(519.2651052796073,286.37739545132456)"
+         id="g6">
+        <path
+           id="p_840.5878915162825"
+           d="M0,34.945A34.945,34.945,0,1,1,0,-34.945A34.945,34.945,0,1,1,0,34.945Z"
+           fill="#b8c4f2"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(336.0323176425751,430.2214875655818)"
+         id="g7">
+        <path
+           id="p_845.2038398555413"
+           d="M0,78.95A78.95,78.95,0,1,1,0,-78.95A78.95,78.95,0,1,1,0,78.95Z"
+           fill="#2b2f8f"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(458.50271144191623,430.2214875655818)"
+         id="g8">
+        <path
+           id="p_926.8050557514684"
+           d="M0,38.081A38.081,38.081,0,1,1,0,-38.081A38.081,38.081,0,1,1,0,38.081Z"
+           fill="#6c7fd8"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(427.9813277257878,494.994534207548)"
+         id="g9">
+        <path
+           id="p_951.0592906366978"
+           d="M0,28.083A28.083,28.083,0,1,1,0,-28.083A28.083,28.083,0,1,1,0,28.083Z"
+           fill="#b8c4f2"
+           stroke="none" />
+      </g>
+    </g>
+    <g
+       id="labels">
+      <g
+         transform="translate(215.21373168242354,208.05250891642396)"
+         id="g10">
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,-5.5)"
+           style="stroke:#ffffff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+           id="text9"><tspan
+             x="0"
+             y="0"
+             dy="0"
+             style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+             id="tspan9">79.2%</tspan></text>
+      </g>
+      <g
+         transform="translate(336.692882627255,208.05250891642396)"
+         id="g11">
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,-5.5)"
+           style="stroke:#ffffff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+           id="text10"><tspan
+             x="0"
+             y="0"
+             dy="0"
+             style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+             id="tspan10">13.7%</tspan></text>
+      </g>
+      <g
+         transform="translate(310.62855431408803,266.5734631143288)"
+         id="g12">
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,-5.5)"
+           style="stroke:#ffffff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+           id="text11"><tspan
+             x="0"
+             y="0"
+             dy="0"
+             style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+             id="tspan11">7.1%</tspan></text>
+      </g>
+      <g
+         transform="translate(450.7650372207657,208.05250891642396)"
+         id="g13">
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,-5.5)"
+           style="stroke:#ffffff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+           id="text12"><tspan
+             x="0"
+             y="0"
+             dy="0"
+             style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+             id="tspan12">47.8%</tspan></text>
+      </g>
+      <g
+         transform="translate(576.4907483689545,208.05250891642396)"
+         id="g14">
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,-5.5)"
+           style="stroke:#ffffff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+           id="text13"><tspan
+             x="0"
+             y="0"
+             dy="0"
+             style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+             id="tspan13">37.8%</tspan></text>
+      </g>
+      <g
+         transform="translate(519.2651052796073,286.37739545132456)"
+         id="g15">
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,-5.5)"
+           style="stroke:#ffffff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+           id="text14"><tspan
+             x="0"
+             y="0"
+             dy="0"
+             style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+             id="tspan14">14.4%</tspan></text>
+      </g>
+      <g
+         transform="translate(336.0323176425751,430.2214875655818)"
+         id="g16">
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,-5.5)"
+           style="stroke:#ffffff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+           id="text15"><tspan
+             x="0"
+             y="0"
+             dy="0"
+             style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+             id="tspan15">73.5%</tspan></text>
+      </g>
+      <g
+         transform="translate(458.50271144191623,430.2214875655818)"
+         id="g17">
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,-5.5)"
+           style="stroke:#ffffff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+           id="text16"><tspan
+             x="0"
+             y="0"
+             dy="0"
+             style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+             id="tspan16">17.1%</tspan></text>
+      </g>
+      <g
+         transform="translate(427.9813277257878,494.994534207548)"
+         id="g18">
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,-5.5)"
+           style="stroke:#ffffff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+           id="text17"><tspan
+             x="0"
+             y="0"
+             dy="0"
+             style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+             id="tspan17">9.3%</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="legend"
+     transform="translate(805,20)">
+    <g
+       transform="translate(5,0)"
+       id="g28">
+      <g
+         class="legendSize"
+         transform="translate(0,0)"
+         id="g22">
+        <g
+           class="legendCells"
+           transform="translate(50,15.5)"
+           id="g21">
+          <g
+             class="cell"
+             transform="translate(0, 25)"
+             id="g19">
+            <circle
+               class="swatch"
+               r="25"
+               fill="none"
+               stroke="#ccc"
+               id="circle18" />
+            <text
+               class="label"
+               transform="translate(55,5)"
+               font-family="Arial, sans-serif"
+               font-size="10px"
+               id="text18"><tspan
+                 x="0"
+                 id="tspan18"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'"
+                 dy="0em">7.4%</tspan></text>
+          </g>
+          <g
+             class="cell"
+             transform="translate(0, 125)"
+             id="g20">
+            <circle
+               class="swatch"
+               r="50"
+               fill="none"
+               stroke="#ccc"
+               id="circle19" />
+            <text
+               class="label"
+               transform="translate(55,5)"
+               font-family="Arial, sans-serif"
+               font-size="10px"
+               id="text19"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan19"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">29.5%</tspan></text>
+          </g>
+        </g>
+        <text
+           class="legendTitle"
+           font-family="&quot;Arial&quot;, sans-serif"
+           font-size="12px"
+           font-weight="bold"
+           id="text21"><tspan
+             x="0"
+             id="tspan21"
+             dy="0em">percent [sum]</tspan></text>
+      </g>
+      <g
+         class="legendColor"
+         transform="translate(0,223)"
+         id="g27">
+        <g
+           class="legendCells"
+           transform="translate(0,15.5)"
+           id="g26">
+          <g
+             class="cell"
+             transform="translate(0, 0)"
+             id="g23">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill: rgb(43, 47, 143);"
+               id="rect22" />
+            <text
+               class="label"
+               transform="translate( 20, 12.5)"
+               font-family="&quot;Arial&quot;, sans-serif"
+               font-size="10px"
+               id="text22"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan22">Better</tspan></text>
+          </g>
+          <g
+             class="cell"
+             transform="translate(0, 20.5)"
+             id="g24">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill: rgb(108, 127, 216);"
+               id="rect23" />
+            <text
+               class="label"
+               transform="translate( 20, 12.5)"
+               font-family="&quot;Arial&quot;, sans-serif"
+               font-size="10px"
+               id="text23"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan23">Same</tspan></text>
+          </g>
+          <g
+             class="cell"
+             transform="translate(0, 41)"
+             id="g25">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill: rgb(184, 196, 242);"
+               id="rect24" />
+            <text
+               class="label"
+               transform="translate( 20, 12.5)"
+               font-family="&quot;Arial&quot;, sans-serif"
+               font-size="10px"
+               id="text24"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan24">Worse</tspan></text>
+          </g>
+        </g>
+        <text
+           class="legendTitle"
+           font-family="Arial, sans-serif"
+           font-size="12px"
+           font-weight="bold"
+           id="text26"><tspan
+             x="0"
+             id="tspan26">Mood after listening]</tspan></text>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     id="text28"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect28);display:inline;fill:#000000" />
+  <rect
+     style="fill:#fefefe;fill-opacity:1"
+     id="rect29"
+     width="198.65999"
+     height="207.45674"
+     x="778.51257"
+     y="9.5298147" />
+  <text
+     xml:space="preserve"
+     id="text29"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect30);display:inline;fill:#fefefe;fill-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text30"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31);display:inline;fill:#fefefe;fill-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text31"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32);display:inline;fill:#fefefe;fill-opacity:1" />
+</svg>

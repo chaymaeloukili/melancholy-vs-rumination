@@ -1,0 +1,49 @@
+sample,MOODCHANGE,feeling,percent,group
+S1_Finland_convenience,Worse,relief,8.1,FIN fans · Worse
+S1_Finland_convenience,Better,relief,43.0,FIN fans · Better
+S2_Finland_quota,Worse,relief,3.3,FIN quota · Worse
+S2_Finland_quota,Better,relief,39.8,FIN quota · Better
+S3_UK_representative,Worse,relief,7.7,UK · Worse
+S3_UK_representative,Better,relief,27.0,UK · Better
+S1_Finland_convenience,Worse,powerlessness,65.1,FIN fans · Worse
+S1_Finland_convenience,Better,powerlessness,34.5,FIN fans · Better
+S2_Finland_quota,Worse,powerlessness,60.0,FIN quota · Worse
+S2_Finland_quota,Better,powerlessness,30.5,FIN quota · Better
+S3_UK_representative,Worse,powerlessness,25.0,UK · Worse
+S3_UK_representative,Better,powerlessness,9.5,UK · Better
+S1_Finland_convenience,Worse,peacefulness,9.3,FIN fans · Worse
+S1_Finland_convenience,Better,peacefulness,52.9,FIN fans · Better
+S2_Finland_quota,Worse,peacefulness,6.7,FIN quota · Worse
+S2_Finland_quota,Better,peacefulness,52.5,FIN quota · Better
+S3_UK_representative,Worse,peacefulness,11.5,UK · Worse
+S3_UK_representative,Better,peacefulness,48.2,UK · Better
+S1_Finland_convenience,Worse,grief-stricken,62.8,FIN fans · Worse
+S1_Finland_convenience,Better,grief-stricken,29.8,FIN fans · Better
+S2_Finland_quota,Worse,grief-stricken,63.3,FIN quota · Worse
+S2_Finland_quota,Better,grief-stricken,23.3,FIN quota · Better
+S3_UK_representative,Worse,grief-stricken,25.0,UK · Worse
+S3_UK_representative,Better,grief-stricken,8.8,UK · Better
+S1_Finland_convenience,Worse,sad but elated,15.1,FIN fans · Worse
+S1_Finland_convenience,Better,sad but elated,48.7,FIN fans · Better
+S2_Finland_quota,Worse,sad but elated,0.0,FIN quota · Worse
+S2_Finland_quota,Better,sad but elated,45.8,FIN quota · Better
+S3_UK_representative,Worse,sad but elated,9.6,UK · Worse
+S3_UK_representative,Better,sad but elated,22.6,UK · Better
+S1_Finland_convenience,Worse,depression,25.6,FIN fans · Worse
+S1_Finland_convenience,Better,depression,7.8,FIN fans · Better
+S2_Finland_quota,Worse,depression,30.0,FIN quota · Worse
+S2_Finland_quota,Better,depression,8.1,FIN quota · Better
+S3_UK_representative,Worse,depression,15.4,UK · Worse
+S3_UK_representative,Better,depression,3.6,UK · Better
+S1_Finland_convenience,Worse,being downhearted,62.8,FIN fans · Worse
+S1_Finland_convenience,Better,being downhearted,29.3,FIN fans · Better
+S2_Finland_quota,Worse,being downhearted,56.7,FIN quota · Worse
+S2_Finland_quota,Better,being downhearted,27.5,FIN quota · Better
+S3_UK_representative,Worse,being downhearted,34.6,UK · Worse
+S3_UK_representative,Better,being downhearted,10.2,UK · Better
+S1_Finland_convenience,Worse,comfort,11.6,FIN fans · Worse
+S1_Finland_convenience,Better,comfort,59.2,FIN fans · Better
+S2_Finland_quota,Worse,comfort,10.0,FIN quota · Worse
+S2_Finland_quota,Better,comfort,55.1,FIN quota · Better
+S3_UK_representative,Worse,comfort,5.8,UK · Worse
+S3_UK_representative,Better,comfort,30.7,UK · Better

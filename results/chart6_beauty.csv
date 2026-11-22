@@ -1,0 +1,19 @@
+sample,MOODCHANGE,item,percent,group
+S1_Finland_convenience,Worse,Reason: because it is beautiful,66.3,FIN fans · Worse
+S1_Finland_convenience,Same,Reason: because it is beautiful,78.9,FIN fans · Same
+S1_Finland_convenience,Better,Reason: because it is beautiful,88.9,FIN fans · Better
+S2_Finland_quota,Worse,Reason: because it is beautiful,26.7,FIN quota · Worse
+S2_Finland_quota,Same,Reason: because it is beautiful,60.0,FIN quota · Same
+S2_Finland_quota,Better,Reason: because it is beautiful,80.1,FIN quota · Better
+S3_UK_representative,Worse,Reason: because it is beautiful,25.0,UK · Worse
+S3_UK_representative,Same,Reason: because it is beautiful,28.9,UK · Same
+S3_UK_representative,Better,Reason: because it is beautiful,54.7,UK · Better
+S1_Finland_convenience,Worse,Mechanism: beauty,29.1,FIN fans · Worse
+S1_Finland_convenience,Same,Mechanism: beauty,53.6,FIN fans · Same
+S1_Finland_convenience,Better,Mechanism: beauty,74.7,FIN fans · Better
+S2_Finland_quota,Worse,Mechanism: beauty,16.7,FIN quota · Worse
+S2_Finland_quota,Same,Mechanism: beauty,38.2,FIN quota · Same
+S2_Finland_quota,Better,Mechanism: beauty,67.8,FIN quota · Better
+S3_UK_representative,Worse,Mechanism: beauty,19.2,UK · Worse
+S3_UK_representative,Same,Mechanism: beauty,15.0,UK · Same
+S3_UK_representative,Better,Mechanism: beauty,39.4,UK · Better
